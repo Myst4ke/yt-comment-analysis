@@ -1,3 +1,3 @@
 # yt-comment-analysis
 
-- trouver 3 paper par personne
+- trouver 3 papers par personne
